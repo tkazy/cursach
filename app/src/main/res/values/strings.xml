@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="title_home">Главная</string>
+    <string name="title_tests">Тесты</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_home_page">Главная</string>
+    <string name="title_tests_page">Тесты</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_profile_page">Профиль</string>
+    <string name="begin_button">Начать обучение</string>
+    <string name="begin_test">Начать</string>
+    <string name="first_test_name">Переводчик с английского</string>
+    <string name="textimage">TextImage</string>
+    <string name="login_btn_text">Вход</string>
+    <string name="reg_btn_text">Регистрация</string>
+    <string name="next_btn">Далее</string>
+</resources>
